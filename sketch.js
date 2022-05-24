@@ -82,7 +82,7 @@ function draw() {
         // boy.addAnimation(endImg);
         //boy.addAnimation("SahilRunning",endImg);
         // boy.addAnimation("endImg");
-        boy.addAnimation(SahilRunning, endImg);
+        boy.addAnimation("SahilRunning", endImg);
 
         boy.x = 200;
         boy.y = 300;
